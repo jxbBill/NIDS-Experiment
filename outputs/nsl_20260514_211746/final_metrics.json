@@ -1,0 +1,16 @@
+{
+  "accuracy": 0.7181511710432931,
+  "precision": 0.9149481234789292,
+  "recall": 0.556611860048313,
+  "f1": 0.6921511627906977,
+  "false_positive_rate": 0.06837606837606838,
+  "false_negative_rate": 0.4433881399516871,
+  "tn": 9047.0,
+  "fp": 664.0,
+  "fn": 5690.0,
+  "tp": 7143.0,
+  "num_windows": 57.0,
+  "memory_total": 4096.0,
+  "memory_class_0": 2048.0,
+  "memory_class_1": 2048.0
+}

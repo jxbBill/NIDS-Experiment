@@ -1,0 +1,76 @@
+nohup: ignoring input
+dataset=nsl input_dim=121
+initial=12597 stream=113376 test=22544
+device=cuda output_dir=/home/xinbeijiang/code/MyCode/outputs/nsl_20260514_210009
+window=000 drift=0 trusted=1934 f1=0.9698 memory=4096
+window=001 drift=0 trusted=1950 f1=0.9770 memory=4096
+window=002 drift=0 trusted=1932 f1=0.9754 memory=4096
+window=003 drift=0 trusted=1931 f1=0.9783 memory=4096
+window=004 drift=0 trusted=1943 f1=0.9796 memory=4096
+window=005 drift=0 trusted=1936 f1=0.9679 memory=4096
+window=006 drift=0 trusted=1930 f1=0.9789 memory=4096
+window=007 drift=0 trusted=1925 f1=0.9789 memory=4096
+window=008 drift=0 trusted=1926 f1=0.9730 memory=4096
+window=009 drift=0 trusted=1928 f1=0.9702 memory=4096
+window=010 drift=0 trusted=1925 f1=0.9699 memory=4096
+window=011 drift=0 trusted=1936 f1=0.9740 memory=4096
+window=012 drift=0 trusted=1937 f1=0.9796 memory=4096
+window=013 drift=0 trusted=1926 f1=0.9753 memory=4096
+window=014 drift=0 trusted=1937 f1=0.9771 memory=4096
+window=015 drift=0 trusted=1924 f1=0.9744 memory=4096
+window=016 drift=0 trusted=1929 f1=0.9756 memory=4096
+window=017 drift=1 trusted=1933 f1=0.9768 memory=4096
+window=018 drift=1 trusted=1928 f1=0.9664 memory=4096
+window=019 drift=1 trusted=1950 f1=0.9778 memory=4096
+window=020 drift=1 trusted=1952 f1=0.9742 memory=4096
+window=021 drift=1 trusted=1959 f1=0.9789 memory=4096
+window=022 drift=1 trusted=1969 f1=0.9745 memory=4096
+window=023 drift=1 trusted=1967 f1=0.9754 memory=4096
+window=024 drift=1 trusted=1968 f1=0.9738 memory=4096
+window=025 drift=1 trusted=1968 f1=0.9731 memory=4096
+window=026 drift=1 trusted=1965 f1=0.9726 memory=4096
+window=027 drift=1 trusted=1973 f1=0.9735 memory=4096
+window=028 drift=1 trusted=1972 f1=0.9747 memory=4096
+window=029 drift=1 trusted=1970 f1=0.9782 memory=4096
+window=030 drift=1 trusted=1971 f1=0.9777 memory=4096
+window=031 drift=1 trusted=1977 f1=0.9728 memory=4096
+window=032 drift=1 trusted=1970 f1=0.9714 memory=4096
+window=033 drift=1 trusted=1974 f1=0.9753 memory=4096
+window=034 drift=1 trusted=1979 f1=0.9760 memory=4096
+window=035 drift=1 trusted=1978 f1=0.9752 memory=4096
+window=036 drift=1 trusted=1985 f1=0.9742 memory=4096
+window=037 drift=1 trusted=1983 f1=0.9685 memory=4096
+window=038 drift=1 trusted=1982 f1=0.9797 memory=4096
+window=039 drift=1 trusted=1983 f1=0.9726 memory=4096
+window=040 drift=1 trusted=1982 f1=0.9739 memory=4096
+window=041 drift=1 trusted=1980 f1=0.9771 memory=4096
+window=042 drift=1 trusted=1980 f1=0.9742 memory=4096
+window=043 drift=1 trusted=1987 f1=0.9716 memory=4096
+window=044 drift=1 trusted=1984 f1=0.9704 memory=4096
+window=045 drift=1 trusted=1979 f1=0.9728 memory=4096
+window=046 drift=1 trusted=1981 f1=0.9698 memory=4096
+window=047 drift=1 trusted=1993 f1=0.9808 memory=4096
+window=048 drift=1 trusted=1976 f1=0.9759 memory=4096
+window=049 drift=1 trusted=1979 f1=0.9761 memory=4096
+window=050 drift=1 trusted=1974 f1=0.9744 memory=4096
+window=051 drift=1 trusted=1977 f1=0.9779 memory=4096
+window=052 drift=1 trusted=1980 f1=0.9752 memory=4096
+window=053 drift=1 trusted=1986 f1=0.9782 memory=4096
+window=054 drift=1 trusted=1973 f1=0.9691 memory=4096
+window=055 drift=1 trusted=1979 f1=0.9730 memory=4096
+window=056 drift=1 trusted=1359 f1=0.9684 memory=4096
+final_metrics
+accuracy: 0.7198811213626686
+f1: 0.6951484431571324
+false_negative_rate: 0.4389464661419777
+false_positive_rate: 0.07022963649469674
+fn: 5633.0
+fp: 682.0
+memory_class_0: 2048.0
+memory_class_1: 2048.0
+memory_total: 4096.0
+num_windows: 57.0
+precision: 0.9134737376300431
+recall: 0.5610535338580223
+tn: 9029.0
+tp: 7200.0
